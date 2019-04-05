@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Java Timer</string>
+    <string name="timer">10:00</string>
+</resources>
